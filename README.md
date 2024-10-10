@@ -22,6 +22,11 @@ This project is a website designed with a strong focus on **color gradients**, *
 2. Open `index.html` to view the website in any browser.
 3. Adjust the screen size to see the responsive behavior and scroll between sections to experience smooth scrolling.
 
+## Demo
+
+Check out the live demo [here](https://zeiad-haggag.github.io/Color-Website/).
+
+
 ## Screenshot
 
 ![Screenshot of color website](./assets/color%20website.png)
